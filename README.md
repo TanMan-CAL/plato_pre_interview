@@ -6,7 +6,7 @@ Scrapybara DoorDash Menu Scraper: to scrap menu items from DoorDash restaurants
 
 1. Clone the repository
 
-2. Install the dependencies in a virtual environment. Follow steps with [Python documentation]([http://example.co](https://docs.python.org/3/library/venv.html).
+2. Install the dependencies in a virtual environment. Follow steps with [Python docs]([http://example.com](https://docs.python.org/3/library/venv.html))
    ```bash
     pip install scrapybara playwright asyncio
    ```
