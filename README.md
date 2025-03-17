@@ -17,7 +17,7 @@ Scrapybara DoorDash Menu Scraper: to scrap menu items from DoorDash restaurants
    ```
 4. Set up scrapybara API key
    ```bash
-    export SCRAPYBARA_API_KEY="your_api_key_here"
+    export SCRAPYBARA_API_KEY="api_key_"
    ```
 5. Execute main.py
 
